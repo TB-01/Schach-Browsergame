@@ -11,12 +11,13 @@ const Piece = (props)=>{
      * -whether or not it's your turn
      * -if this player's turn, color od this player is the same color as this piece,
      * then we can make this piece draggable / moveable
+     * this is a test if i know how to use github
      */
     return(
         <Image
             draggable
         />
-        
+
 
     )
 

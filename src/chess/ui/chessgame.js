@@ -3,7 +3,7 @@ import Game from '../model/chess'
 
 
 class ChessGame extends React.Component{
-
-
     
+
+
 }
